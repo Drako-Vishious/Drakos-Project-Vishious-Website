@@ -19,3 +19,5 @@
 0.0.1.2 Created and started INDEX and ABOUT html pages and added some content to them. Added more words to custom dictionary.
 
 0.0.1.2A Updated footer to include updated last and corrected the line on which the copyright symbol sat. Updated ABOUT html page main section.
+
+0.0.1.3: Updated ABOUT html page to change name from my real name to my online avatar's name. Updated footer to have current date in all pages for most recent changes.
