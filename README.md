@@ -1,6 +1,4 @@
-# Drakos-cs50-Learning
-
-# Drako's Project Portfolio For learning Computer Science following along with Harvard's CS50
+# Drakos-Project-Vishious-Website
 
 Update 0.0.1 Created README for project portfolio.
 
