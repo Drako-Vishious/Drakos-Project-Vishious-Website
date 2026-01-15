@@ -31,3 +31,5 @@ Update 0.0.1.4C: Added NOT_FOUND html page and filled it out.
 Update 0.0.1.4D: Corrected Titles in all pages
 
 Update 0.0.1.4E: Corrected file paths on all pages.
+
+Update 0.0.1.4F: Updated CSS with comments.
