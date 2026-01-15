@@ -33,3 +33,5 @@ Update 0.0.1.4D: Corrected Titles in all pages
 Update 0.0.1.4E: Corrected file paths on all pages.
 
 Update 0.0.1.4F: Updated CSS with comments.
+
+Update 0.0.1.4G: Updated BLOGS page to have a Art Portfolio section.
