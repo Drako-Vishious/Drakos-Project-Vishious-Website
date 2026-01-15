@@ -29,3 +29,5 @@ Update 0.0.1.4A: Added a bear with us while we work comment on INDEX page.
 Update 0.0.1.4B: Added the word Update before update numbers in README page.
 
 Update 0.0.1.4C: Added NOT_FOUND html page and filled it out.
+
+Update 0.0.1.4D: Corrected Titles in all pages
