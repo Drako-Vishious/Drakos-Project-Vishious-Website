@@ -21,3 +21,5 @@
 0.0.1.2A Updated footer to include updated last and corrected the line on which the copyright symbol sat. Updated ABOUT html page main section.
 
 0.0.1.3: Updated ABOUT html page to change name from my real name to my online avatar's name. Updated footer to have current date in all pages for most recent changes.
+
+0.0.1.4: Created BLOGS html page to hold links to my blogs, updated all pages with to date last updated and resized logo to 50 by 50 px, updated INDEX page's welcome to my website, updated ABOUT page to have avatar picture of Drako, and a sections for about drako and a section called Drako's worlds, updated TEMPLATE PAGE, added Drako's picture and a song to media folder via folders Images and Audio.
