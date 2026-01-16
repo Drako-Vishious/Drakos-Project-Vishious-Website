@@ -39,3 +39,5 @@ Update 0.0.1.4G: Updated BLOGS page to have a Art Portfolio section.
 Update 0.0.1.4H: Created ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages and filled from TEMPLATE with a header of Work In Progress.
 
 Update 0.0.1I: Uploaded art for ART_PORTFOLIO page and coded them in.
+
+Update 0.0.1J: Deleted the last updated date from all pages.
