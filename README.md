@@ -41,3 +41,5 @@ Update 0.0.1.4H: Created ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages an
 Update 0.0.1I: Uploaded art for ART_PORTFOLIO page and coded them in.
 
 Update 0.0.1J: Deleted the last updated date from all pages.
+
+0.0.1K: Added permission to use my art as long as they credit me in the usage.
