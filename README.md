@@ -38,10 +38,12 @@ Update 0.0.1.4G: Updated BLOGS page to have a Art Portfolio section.
 
 Update 0.0.1.4H: Created ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages and filled from TEMPLATE with a header of Work In Progress.
 
-Update 0.0.1I: Uploaded art for ART_PORTFOLIO page and coded them in.
+Update 0.0.1.4I: Uploaded art for ART_PORTFOLIO page and coded them in.
 
-Update 0.0.1J: Deleted the last updated date from all pages.
+Update 0.0.1.4J: Deleted the last updated date from all pages.
 
-Update 0.0.1K: Added permission to use my art as long as they credit me in the usage.
+Update 0.0.1.4K: Added permission to use my art as long as they credit me in the usage.
 
-Update 0.0.1L: Added a link back to BLOGS page from ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages.
+Update 0.0.1.4L: Added a link back to BLOGS page from ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages.
+
+Update 0.0.1.4K: Corrected README and edited INDEX page to have the invitation to "join Project Vishious on the realm of REDACTED's" instead of to "join REDACTED on the realm of REDACTED's"
