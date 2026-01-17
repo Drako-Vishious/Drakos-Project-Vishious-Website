@@ -4,11 +4,25 @@
     padding: 0;
     margin: 0;
 }
+
+/*--  Header  --*/
 header{
     display: inline-block;
     background-color: darkslategray;
+    width: 50%;
 }
 nav{
     display: inline-block;
     background-color: darkslategray;
+    text-align: center;
+}
+nav a{
+    background-color: darkslategray;
+    color: rgb(170, 0, 208);
+}
+
+/* REDACTED Blackout highlight */
+.Redacted {
+    color: white;
+    background-color: black;
 }

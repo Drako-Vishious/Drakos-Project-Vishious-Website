@@ -47,3 +47,5 @@ Update 0.0.1.4K: Added permission to use my art as long as they credit me in the
 Update 0.0.1.4L: Added a link back to BLOGS page from ART_PORTFOLIO, DRAKO_BLOG, and RANDOM_THOUGHTS pages.
 
 Update 0.0.1.4K: Corrected README and edited INDEX page to have the invitation to "join Project Vishious on the realm of REDACTED's" instead of to "join REDACTED on the realm of REDACTED's"
+
+Update 0.0.1.5: Updated INDEX and ABOUT pages as well as the STYLE css sheet to darklight the word REDACTED in those pages and change the font color to white. Added css to the header and nav to try to position the navbar correctly and have its background color correct.
