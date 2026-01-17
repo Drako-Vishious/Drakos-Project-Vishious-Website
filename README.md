@@ -61,3 +61,5 @@ Update 0.0.1.6A: Updated 404 page to have logo inside Nav.
 Update 0.0.1.6B: Added Yggdrasil favicon to all pages.
 
 Update 0.0.1.7: Added links to Drako's Instagram, Bluesky, Youtube, and Twitch profiles and channel.
+
+Update 0.0.1.7A: Added what I use to make my digital art and a physical art description on ART_PORTFOLIO page.
