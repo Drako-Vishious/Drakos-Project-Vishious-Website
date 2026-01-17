@@ -55,3 +55,4 @@ Update 0.0.1.5A: Updated Emote DrakoComfy png to not have background tint. Updat
 Update 0.0.1.5B: Updated DRAKO_BLOG, RANDOM_THOUGHTS, AND ART_PORTFOLIO pages to have proper titles.
 
 Update 0.0.1.6: Adjusted logo to be inside Nav. Updated CSS to have a custom cursor along with styling the links and Nav in all pages properly. TODO: Inline the Navbar items to a navbar.
+
