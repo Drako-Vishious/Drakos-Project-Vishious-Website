@@ -51,3 +51,5 @@ Update 0.0.1.4K: Corrected README and edited INDEX page to have the invitation t
 Update 0.0.1.5: Updated INDEX and ABOUT pages as well as the STYLE css sheet to darklight the word REDACTED in those pages and change the font color to white. Added css to the header and nav to try to position the navbar correctly and have its background color correct.
 
 Update 0.0.1.5A: Updated Emote DrakoComfy png to not have background tint. Updated README updates with the update.
+
+Update 0.0.1.5B: Updated DRAKO_BLOG, RANDOM_THOUGHTS, AND ART_PORTFOLIO pages to have proper titles.
