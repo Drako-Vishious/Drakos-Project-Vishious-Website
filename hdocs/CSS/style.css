@@ -1,3 +1,4 @@
+
 /* All Pages */
 *{
     background-color: #c4c4c4;
@@ -13,12 +14,41 @@ header{
 }
 nav{
     display: inline-block;
-    background-color: darkslategray;
+    background: darkslategray;
     text-align: center;
+    margin: 0 auto 1rem;
+}
+nav li{
+    list-style: none;
+    font-size: 20px;
+    background: darkslategray;
 }
 nav a{
-    background-color: darkslategray;
-    color: rgb(170, 0, 208);
+    background: darkslategray;
+    color:teal;
+}
+
+/*-- All Links --*/
+body a {
+    color: teal;
+    text-decoration: none;
+}
+body a:hover {
+    background: black;
+    color: wheat;
+    cursor: url('/Media/custom.svg'), auto;
+}
+body a:visited {
+    color: teal;
+}
+body a:active{
+    color: wheat;
+}
+
+/*-- Main Body --*/
+body{
+    text-align: center;   
+    cursor: url('/Media/custom.svg'), auto;
 }
 
 /* REDACTED Blackout highlight */
