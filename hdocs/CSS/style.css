@@ -27,6 +27,12 @@ nav a{
     color:teal;
 }
 
+/*-- Main Body --*/
+body{
+    text-align: center;   
+    cursor: url('/Media/custom.svg'), auto;
+}
+
 /*-- All Links --*/
 body a {
     color: teal;
@@ -40,14 +46,8 @@ body a:hover {
 body a:visited {
     color: teal;
 }
-body a:active{
+body a:active {
     color: wheat;
-}
-
-/*-- Main Body --*/
-body{
-    text-align: center;   
-    cursor: url('/Media/custom.svg'), auto;
 }
 
 /* REDACTED Blackout highlight */

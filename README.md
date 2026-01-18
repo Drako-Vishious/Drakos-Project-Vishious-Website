@@ -67,3 +67,5 @@ Update 0.0.1.7A: Added what I use to make my digital art and a physical art desc
 Update 0.0.1.8: Added 2026/01/17's art I made DrakoWave and DrakoThink emotes to ART_PORTFOLIO page.
 
 Update 0.0.1.8A: Fixed a small mistake on ART_PORTFOLIO page removing <> from the top page.
+
+Update 0.0.1.8B: ReOrdered the STYLE css sheet so body links were under main body section
