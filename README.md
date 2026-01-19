@@ -69,3 +69,5 @@ Update 0.0.1.8: Added 2026/01/17's art I made DrakoWave and DrakoThink emotes to
 Update 0.0.1.8A: Fixed a small mistake on ART_PORTFOLIO page removing <> from the top page.
 
 Update 0.0.1.8B: ReOrdered the STYLE css sheet so body links were under main body section
+
+Update 0.0.1.9: Updated the Heading H's to have the correct descending order. Added a introduction to DRAKO_BLOG page and a category for 2026. Added an introduction to RANDOM_THOUGHTS page and added a 2026 category and the first entry.
