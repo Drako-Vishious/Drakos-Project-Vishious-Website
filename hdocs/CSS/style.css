@@ -17,10 +17,18 @@ nav{
     text-align: center;
     margin: 0 auto 1rem;
 }
+nav ul{
+    margin: 0;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    background: darkslategray;
+}
 nav li{
     list-style: none;
     font-size: 20px;
     background: darkslategray;
+    display: inline-block;
+    margin-inline: 0.5rem;
 }
 nav a{
     background: darkslategray;
@@ -34,19 +42,19 @@ body{
 }
 
 /*-- All Links --*/
-body a {
+a {
     color: teal;
     text-decoration: none;
 }
-body a:hover {
+a:hover {
     background: black;
     color: wheat;
     cursor: url('/Media/custom.svg'), auto;
 }
-body a:visited {
+a:visited {
     color: teal;
 }
-body a:active {
+a:active {
     color: wheat;
 }
 
@@ -54,4 +62,9 @@ body a:active {
 .Redacted {
     color: white;
     background-color: black;
+}
+
+.column{
+    column-count: 4 150px;
+    column-gap: 2rem;
 }
