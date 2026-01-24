@@ -79,3 +79,5 @@ Update 0.0.2.1: Created and updated Logo to Project Vishious Logo instead of a g
 Update 0.0.2.1A: Updated README md and uploaded changelog as well.
 
 Update 0.0.2.1B: Finished Drako Vishious Avatar 2 and uploaded it to ART_PORTFOLIO page.
+
+Update 0.0.2C: Fixed ART_PORTFOLIO page.
