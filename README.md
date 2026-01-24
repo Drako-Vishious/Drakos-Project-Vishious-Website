@@ -77,3 +77,5 @@ Update 0.0.2: Updated all pages for correct logo size, updated ART_PORTFOLIO wit
 Update 0.0.2.1: Created and updated Logo to Project Vishious Logo instead of a generic Yggdrasil picture. Updated ALL pages to have correct Logo.
 
 Update 0.0.2.1A: Updated README md and uploaded changelog as well.
+
+Update 0.0.2.1B: Finished Drako Vishious Avatar 2 and uploaded it to ART_PORTFOLIO page.
