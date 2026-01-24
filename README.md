@@ -87,3 +87,5 @@ Update 0.0.2.2: Added Random thought from 2026/01/24 to the RANDOM_THOUGHTS page
 Update 0.0.2.2A: Added new avatar to ABOUT page next to old avatar.
 
 Update 0.0.2.2B: Corrected a notation in STYLE css sheet.
+
+Update 0.0.2.3: Uploaded the first post on DRAKO_BLOG page under 2026 Blog heading under the date of 2026/01/24.
