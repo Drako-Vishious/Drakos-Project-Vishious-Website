@@ -90,4 +90,4 @@ Update 0.0.2.2B: Corrected a notation in STYLE css sheet.
 
 Update 0.0.2.3: Uploaded the first post on DRAKO_BLOG page under 2026 Blog heading under the date of 2026/01/24.
 
-Update 0.0.2.4: Created PROJECT_YGGDRSIL and FAE_DEMON_LORD html pages and filled them out. Added a blog post to RANDOM_THOUGHTS page and separated the posts better with linebreaks.
+Update 0.0.2.4: Created PROJECT_YGGDRASIL and FAE_DEMON_LORD html pages and filled them out. Added a blog post to RANDOM_THOUGHTS page and separated the posts better with linebreaks.
