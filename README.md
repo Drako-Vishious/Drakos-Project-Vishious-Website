@@ -92,4 +92,6 @@ Update 0.0.2.3: Uploaded the first post on DRAKO_BLOG page under 2026 Blog headi
 
 Update 0.0.2.4: Created PROJECT_YGGDRASIL and FAE_DEMON_LORD html pages and filled them out. Added a blog post to RANDOM_THOUGHTS page and separated the posts better with linebreaks.
 
-Update 0.0.2.5: updated nav on all pages to have correct name of BLOGS page in the link. Updated BLOGS page to have correct header.
+Update 0.0.2.5: Updated nav on all pages to have correct name of BLOGS page in the link. Updated BLOGS page to have correct header.
+
+Update 0.0.2.6: Updated curser to custom Pointer Images. Updated about page to correct an issue with the twitch link having the wrong tag. Updated Fae Demon Lord page to have correct tag for word goal. Added Pointer.png to the art portfolio and added an entry to Drako_blog page.
