@@ -99,3 +99,5 @@ Update 0.0.2.6: Updated curser to custom Pointer Images. Updated about page to c
 Update 0.0.2.6A: Corrected grammer noticed in Art Portfolio page.
 
 Update 0.0.2.6B: Corrected file format for custom cursor.
+
+Update 0.0.2.6C: Updated titles for fae demon lord and project yggdrasil pages.
