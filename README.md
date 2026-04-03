@@ -96,8 +96,10 @@ Update 0.0.2.5: Updated nav on all pages to have correct name of BLOGS page in t
 
 Update 0.0.2.6: Updated curser to custom Pointer Images. Updated about page to correct an issue with the twitch link having the wrong tag. Updated Fae Demon Lord page to have correct tag for word goal. Added Pointer.png to the art portfolio and added an entry to Drako_blog page.
 
-Update 0.0.2.6A: Corrected grammer noticed in Art Portfolio page.
+Update 0.0.2.6A: Corrected grammar noticed in Art Portfolio page.
 
 Update 0.0.2.6B: Corrected file format for custom cursor.
 
 Update 0.0.2.6C: Updated titles for fae demon lord and project yggdrasil pages.
+
+Update 0.0.2.6D: Corrected Spelling
