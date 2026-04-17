@@ -103,3 +103,5 @@ Update 0.0.2.6B: Corrected file format for custom cursor.
 Update 0.0.2.6C: Updated titles for fae demon lord and project yggdrasil pages.
 
 Update 0.0.2.6D: Corrected Spelling
+
+Update 0.0.2.7: Changed Pointer svg name to custom svg.
