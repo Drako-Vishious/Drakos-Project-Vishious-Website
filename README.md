@@ -111,3 +111,5 @@ Update 0.0.2.8: Signed up on Bravenet.com for a guestbook service and embedded i
 Update 0.0.2.9: Updated About me Page.
 
 Update 0.0.3: Updated Index page to have correct headings for guestbook.
+
+Update 0.0.3.1: Uploaded pixelart made of Drako Vishious.
