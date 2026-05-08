@@ -115,3 +115,5 @@ Update 0.0.3: Updated Index page to have correct headings for guestbook.
 Update 0.0.3.1: Uploaded pixelart made of Drako Vishious.
 
 Update 0.0.3.2: Made the guestbook a remote one due to an error that people were receiving trying to sign it.
+
+Update 0.0.3.3: Cosmetic changes to about page.
