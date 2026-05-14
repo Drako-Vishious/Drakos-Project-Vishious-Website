@@ -117,3 +117,5 @@ Update 0.0.3.1: Uploaded pixelart made of Drako Vishious.
 Update 0.0.3.2: Made the guestbook a remote one due to an error that people were receiving trying to sign it.
 
 Update 0.0.3.3: Cosmetic changes to about page.
+
+Update 0.0.3.4: Uploaded link in footer of every page to direct to neocities website to encourage the indie web. Fixed spelling on a couple pages as well.
