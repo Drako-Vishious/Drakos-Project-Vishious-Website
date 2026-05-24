@@ -119,3 +119,5 @@ Update 0.0.3.2: Made the guestbook a remote one due to an error that people were
 Update 0.0.3.3: Cosmetic changes to about page.
 
 Update 0.0.3.4: Uploaded link in footer of every page to direct to neocities website to encourage the indie web. Fixed spelling on a couple pages as well.
+
+Update 0.0.3.5: Updated word goal for fae demon lord.
