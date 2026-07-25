@@ -123,3 +123,5 @@ Update 0.0.3.4: Uploaded link in footer of every page to direct to neocities web
 Update 0.0.3.5: Updated word goal for fae demon lord.
 
 Update 0.0.3.6: Updated all pages headings to correct hierarchy.
+
+Update 0.0.4.7: Updated About page to fix hierarchy in headings.
