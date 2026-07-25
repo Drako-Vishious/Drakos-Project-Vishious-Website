@@ -121,3 +121,5 @@ Update 0.0.3.3: Cosmetic changes to about page.
 Update 0.0.3.4: Uploaded link in footer of every page to direct to neocities website to encourage the indie web. Fixed spelling on a couple pages as well.
 
 Update 0.0.3.5: Updated word goal for fae demon lord.
+
+Update 0.0.3.6: Updated all pages headings to correct hierarchy.
