@@ -129,3 +129,5 @@ Update 0.0.3.7: Updated About page to fix hierarchy in headings.
 Update 0.0.3.8: Corrected a few things and accessibility items that needed addressing.
 
 Update 0.0.3.9: Updated alternative texts of images to be more accessible and understandable.
+
+Update 0.0.4: Updated targets to guestbook links.
