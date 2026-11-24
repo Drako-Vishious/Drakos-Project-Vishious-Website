@@ -1,4 +1,15 @@
 # Drakos-Project-Vishious-Website
+==== DESCRIPTION OF WEBSITE ====
+A small personal website that Drako is building for his blog and community. 
+
+
+==== AUTHORS ====
+Drako Vishious
+
+==== LAST UPDATED ====
+24/11/2026
+
+==== UPDATES ====
 
 Update 0.0.1 Created README for project portfolio.
 
@@ -131,3 +142,5 @@ Update 0.0.3.8: Corrected a few things and accessibility items that needed addre
 Update 0.0.3.9: Updated alternative texts of images to be more accessible and understandable.
 
 Update 0.0.4: Updated targets to guestbook links.
+
+Update 0.0.5: Updated formatting of the README, added discord invite link to all pages and corrected a few spelling errors.
