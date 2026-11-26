@@ -144,3 +144,5 @@ Update 0.0.3.9: Updated alternative texts of images to be more accessible and un
 Update 0.0.4: Updated targets to guestbook links.
 
 Update 0.0.5: Updated formatting of the README, added discord invite link to all pages and corrected a few spelling errors.
+
+Update 0.0.6: Added concept pixel art made between 2/5/2026 and 24/11/2026 to th art_portfolio page and added the images to the images folder.
